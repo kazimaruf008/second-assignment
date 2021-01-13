@@ -1,0 +1,42 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
+header{
+    background-color: #fffbf0;
+}
+.navbar-top{
+    padding: 20px;
+}
+.button{
+    color: white;
+    background-color:#9fb83f ;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    border: none;
+}
+.button-gap{
+    margin-right: 10px;
+}
+.highlight{
+    color: #fabe4c;
+}
+.banner-text{
+    font-size: 65px;
+}
+.product-taitle{
+    margin: 25px 0px;
+}
+}
+.product{
+    border:white;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.product-img{
+    background-color: #f1f1f1;
+    border-radius: 20px;
+}
