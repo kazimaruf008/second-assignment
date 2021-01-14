@@ -65,3 +65,13 @@ header{
     background-color: #fffbf0 ;
     border-radius: 10px; 
 }
+.icons{
+    font-size: 40px;
+    margin: 20px ;
+}
+.icons-item{
+    margin: 10px;
+}
+.icons-item-red{
+    color: red;
+}
