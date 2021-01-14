@@ -31,12 +31,14 @@ header{
 .product-taitle{
     margin: 25px 0px;
 }
-}
 .product{
-    border:white;
+    border:10px solid white;
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin-left: 5%;
+    border-radius: 10px;
 }
 .product-img{
     background-color: #f1f1f1;
     border-radius: 20px;
 }
+
