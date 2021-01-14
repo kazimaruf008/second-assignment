@@ -54,3 +54,10 @@ header{
     margin-top: 100px;
     margin-bottom: 50px;
 }
+.fotter-card{
+    margin: 5px;
+    padding:10px;
+    border: 5px solid white;
+    box-shadow: 0 4px 8px 0 rgba(73, 73, 73, 0.2), 0 6px 20px 0 rgba(94, 92, 92, 0.19);
+    border-radius: 20px;
+}
